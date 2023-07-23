@@ -1,0 +1,7 @@
+* {
+    padding: 0.5rem;
+}
+
+mat-select {
+    padding: 0 !important;
+}
