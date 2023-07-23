@@ -1,0 +1,16 @@
+mat-sidenav-container, mat-sidenav-content, mat-sidenav {
+    height: 100%;
+}
+
+mat-sidenav {
+    width: 250px;
+}
+
+
+a:hover, a:active {
+    color: red;
+}
+
+mat-toolbar {
+    justify-content: space-between;
+}
